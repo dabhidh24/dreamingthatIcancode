@@ -11,3 +11,10 @@ p {
 p.ex1 {
     direction: rtl;
 }
+p.small {
+    line-height: 0.7;
+}
+
+p.big {
+    line-height: 1.8;
+}
