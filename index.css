@@ -5,6 +5,9 @@ body {
 h1 {
     color: green;
 }
+h2 {
+    color: brown;
+}
 p {
     text-indent: 50px;
 }
